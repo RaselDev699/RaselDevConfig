@@ -8,7 +8,7 @@
   "verification": {
     "longUrl": "https://cheerful-elf-b9dd99.netlify.app/verify",
     "useHours": true,
-    "durationHours": 6,
+    "durationHours": 5,
     "durationMinutes": 5
   },
 
